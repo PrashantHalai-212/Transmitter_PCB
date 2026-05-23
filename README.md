@@ -28,4 +28,4 @@ A Batman-inspired Batarang-shaped wireless transmitter board featuring an ATmega
 
 ## License
 
-[MIT]
+MIT
